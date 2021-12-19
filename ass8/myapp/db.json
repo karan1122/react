@@ -1,0 +1,23 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors",
+      "day": "mon-sat",
+      "remainder": true
+    },
+    {
+      "id": 2,
+      "text": "student",
+      "day": "mon-sat",
+      "remainder": true
+    },
+    {
+      "text": "shopping",
+      "day": "friday",
+      "reminder": true,
+      "id": 3,
+      "remainder": false
+    }
+  ]
+}
